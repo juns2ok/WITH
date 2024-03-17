@@ -2,10 +2,11 @@
  <img src="https://capsule-render.vercel.app/api?type=rect&color=black&text=%20%20WITH%20%20&fontAlign=30&fontColor=ffffff&fontSize=30&textBg=true&desc=%EB%A7%9B%EC%A7%91%20%EC%A0%95%EB%B3%B4%20%EA%B3%B5%EC%9C%A0%20%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0&descAlign=60&descAlignY=50" />
 </div>
 
+<div align=center>
  <p><img width="30%" src="https://github.com/juns2ok/WITH/assets/163388549/c2f1e5b4-5ca8-4dc8-a133-8ae61422e914"></p>
  <h4>Team Name: WITH</h4>
  <h4>Project Name: WITH</h4>
-
+</div>
 
 <div align=center>
 	<h3>✨ Languages ✨</h3>
